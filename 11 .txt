@@ -1,5 +1,4 @@
-<!DOCTYPE html
-extension.viewInBrowserFromMenu>
+<!DOCTYPE html>
 
 <html lang="ru">
 <head>
